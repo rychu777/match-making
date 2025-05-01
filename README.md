@@ -1,1 +1,1 @@
-# match-making
+# Match-making services project.
