@@ -1,1 +1,1 @@
-# Match-making services project.
+# Match-making services project. (Microservice architecture)
